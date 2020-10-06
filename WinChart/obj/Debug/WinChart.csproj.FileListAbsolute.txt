@@ -1,0 +1,11 @@
+D:\Bks\temp\WinChart\WinChart\bin\Debug\WinChart.exe.config
+D:\Bks\temp\WinChart\WinChart\bin\Debug\WinChart.exe
+D:\Bks\temp\WinChart\WinChart\bin\Debug\WinChart.pdb
+D:\Bks\temp\WinChart\WinChart\obj\Debug\WinChart.csprojAssemblyReference.cache
+D:\Bks\temp\WinChart\WinChart\obj\Debug\WinChart.Form1.resources
+D:\Bks\temp\WinChart\WinChart\obj\Debug\WinChart.Properties.Resources.resources
+D:\Bks\temp\WinChart\WinChart\obj\Debug\WinChart.csproj.GenerateResource.cache
+D:\Bks\temp\WinChart\WinChart\obj\Debug\WinChart.csproj.CoreCompileInputs.cache
+D:\Bks\temp\WinChart\WinChart\obj\Debug\WinChart.exe
+D:\Bks\temp\WinChart\WinChart\obj\Debug\WinChart.pdb
+D:\Bks\temp\WinChart\WinChart\obj\Debug\WinChart.csproj.ResolveComReference.cache
